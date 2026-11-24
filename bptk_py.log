@@ -1,0 +1,1090 @@
+2026-11-23 15:50:04.742501, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 15:50:04.742501, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 15:50:04.884511, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 15:50:04.885521, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 15:50:35.956159, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-23 15:50:35.962171, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 15:50:35.963169, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 15:50:36.083300, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 15:50:36.084294, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 16:40:51.957565, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 16:40:51.958563, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 16:40:51.963572, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 16:40:51.965576, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 16:40:51.980040, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 16:40:51.985047, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-23 16:40:51.995558, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 16:40:51.997559, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 16:40:51.998558, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 16:40:51.999559, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 16:40:52.001068, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 16:40:52.003583, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 16:40:52.004593, [WARN] Unable to simulate equation "_deadwood". Doesn't seem like it's part of the model.
+2026-11-23 16:40:52.011627, [ERROR] No simulation model containing equation "_deadwood". Did you maybe mean one of "deadwood, _verlust, freespace"?
+2026-11-23 16:40:52.075441, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 16:40:52.076437, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 16:40:52.079454, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 16:48:02.989917, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-23 16:48:03.000916, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 16:48:03.001433, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 16:48:03.005449, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.008453, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.033611, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.038151, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.056188, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.058214, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.061195, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.064190, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.066247, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.068825, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.071320, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.077336, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-23 16:48:03.190178, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 16:48:03.191181, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 16:48:03.194176, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.552926, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-23 16:58:43.557905, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 16:58:43.558903, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 16:58:43.560907, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.569906, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.571912, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.575913, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.580911, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.581914, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.582916, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.583915, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.585423, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.586433, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.586433, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.588432, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.656885, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 16:58:43.657864, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 16:58:43.658863, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.660865, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 16:58:43.674892, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 16:58:43.674892, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 16:58:43.676872, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.897150, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:01:32.897150, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:01:32.900673, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.901676, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.912313, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.913316, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.921376, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.922377, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.923377, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.924392, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.925379, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.926367, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.926367, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-23 17:01:32.927367, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-23 17:01:33.012791, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:01:33.012791, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:01:33.014778, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:01:33.016778, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:01:33.029316, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:01:33.030294, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:01:33.033294, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:02:06.985265, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-23 17:02:06.989786, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:02:06.990795, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:02:06.992307, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:02:06.994329, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.006373, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.008968, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.015004, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.016004, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.017006, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.017976, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.019991, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.022494, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.023505, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.024493, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.069750, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:02:07.069750, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:02:07.071751, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.072760, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:02:07.085819, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:02:07.086820, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:02:07.088829, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.800029, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-23 17:02:30.805042, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:02:30.805042, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:02:30.808567, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.810580, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.821634, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.823634, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.831658, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.832644, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.833646, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.834655, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.835645, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.836644, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.839156, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.840170, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.891884, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:02:30.892909, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:02:30.894893, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.896897, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:02:30.917714, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:02:30.918706, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:02:30.920710, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.648171, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-23 17:11:20.653681, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:11:20.653681, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:11:20.656794, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.658345, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.678623, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.680244, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.683523, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.686518, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.690546, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.691556, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.691556, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.693071, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.694086, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.745280, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:11:20.745280, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:11:20.747807, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.748807, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.768852, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:11:20.768852, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:11:20.771188, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.773186, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.773186, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.774187, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.776254, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.777249, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.778252, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.781438, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.782434, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-23 17:11:20.787435, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-23 17:11:20.804442, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:11:20.805455, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:11:20.807453, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.727030, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-23 17:13:49.732037, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:13:49.733023, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:13:49.735046, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.736055, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.747579, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.749581, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.757768, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.759352, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.759876, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.761413, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.762436, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.764435, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.764435, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.765423, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.819703, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:13:49.820699, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:13:49.821707, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.823695, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.842128, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:13:49.843136, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:13:49.845146, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.846140, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.847143, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.849131, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.850132, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.851133, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.853142, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.856137, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.857165, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-23 17:13:49.862147, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-23 17:13:49.884201, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:13:49.885215, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:13:49.887229, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.170989, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-23 17:15:01.175983, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:15:01.175983, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:15:01.178519, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.180520, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.190683, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.193691, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.202199, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+el.
+2026-11-23 17:15:01.206197, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.206197, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.208200, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.209200, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.210199, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.211200, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.266002, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:15:01.266002, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:15:01.268540, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.269548, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.291613, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:15:01.293145, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:15:01.295144, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.297145, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.300011, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.300011, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.301014, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.303013, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.304017, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.307028, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.308027, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-23 17:15:01.313030, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-23 17:15:01.335227, [WARN] Overwriting existing set of points for climate_data
+2026-11-23 17:15:01.335227, [WARN] Overwriting existing set of points for agrar_data
+2026-11-23 17:15:01.337239, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.407366, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:22:59.408368, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:22:59.410888, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.413948, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.429118, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.437184, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.448804, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.448804, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.453366, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.454881, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.459948, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.462513, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.463526, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.465529, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.614763, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:22:59.616295, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:22:59.619343, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.622863, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.661334, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:22:59.662351, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:22:59.709969, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.725265, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.735917, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.760669, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.774841, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.793597, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.805704, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.813289, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.820437, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 11:22:59.828044, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 11:22:59.855432, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:22:59.856432, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:22:59.888810, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.796241, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 11:26:41.801316, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:26:41.802304, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:26:41.804824, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.806860, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.819367, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.821889, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.829456, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.830457, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.831970, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.833974, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.835479, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.836489, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.837485, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.837485, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.896188, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:26:41.896188, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:26:41.898189, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.899712, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.918891, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:26:41.918891, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:26:41.921448, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.922462, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.924467, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.925655, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.926667, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.927677, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.928668, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.932197, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.933195, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 11:26:41.939224, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 11:26:41.960877, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:26:41.961874, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:26:41.964396, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:26:42.010905, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:26:42.010905, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:26:42.012903, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 11:26:42.014414, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 11:26:42.016423, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 11:26:42.016423, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 11:26:42.018425, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 11:26:42.018932, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.319470, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 11:28:22.324640, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:28:22.325147, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:28:22.326692, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.328215, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.341869, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.342879, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.351930, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.351930, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.353974, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.355500, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.356512, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.357510, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.358514, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.361133, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.414778, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:28:22.416296, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:28:22.417824, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.419350, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.437081, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:28:22.437081, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:28:22.439093, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.440593, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.442097, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.443607, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.444620, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.444620, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.446128, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.448651, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.450685, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.456257, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 11:28:22.476854, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:28:22.476854, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:28:22.479384, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.518113, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:28:22.518113, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:28:22.519231, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.522256, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.522256, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.524296, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.525311, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 11:28:22.526312, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 11:32:12.578583, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 11:32:12.579598, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 11:32:12.581109, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 11:32:12.583139, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 11:32:12.584297, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 11:32:12.585823, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 11:32:12.587330, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 11:32:12.588859, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 12:18:12.276403, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 12:18:12.277406, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 12:18:12.279938, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 12:18:12.280934, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 12:18:12.281935, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 12:18:12.283949, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 12:18:12.284966, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 12:18:12.286475, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 12:19:24.399921, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 12:19:24.401542, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 12:19:24.404064, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 12:19:24.405084, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 12:19:24.406241, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 12:19:24.408257, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 12:19:24.409365, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 12:19:24.410886, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 12:20:00.993893, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 12:20:00.999430, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 12:20:00.999430, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 12:20:01.001947, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.004478, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.015639, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.017646, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.022832, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.027870, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.028880, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.029878, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.031882, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.031882, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.033168, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.034168, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.087960, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 12:20:01.087960, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 12:20:01.090119, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.091145, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.108781, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 12:20:01.110288, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 12:20:01.111301, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.112812, [WARN] Unable to simulate equation "freespace". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.115358, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.116356, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.118398, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.118398, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.120893, [WARN] Unable to simulate equation "_ngrowth". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.124427, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.126430, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.131462, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 12:20:01.152691, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 12:20:01.154227, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 12:20:01.156242, [WARN] Unable to simulate equation "forest_area". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.202811, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 12:20:01.203810, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 12:20:01.205840, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.208879, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.208879, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.210896, [WARN] Unable to simulate equation "health_damage". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.211892, [WARN] Unable to simulate equation "health_recovery". Doesn't seem like it's part of the model.
+2026-11-24 12:20:01.213397, [WARN] Unable to simulate equation "forest_health". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.168331, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:16:15.170330, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:16:15.197339, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.199349, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.200340, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.207347, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.208340, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.284258, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:16:15.284258, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:16:15.310272, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:16:15.310272, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:16:15.321283, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.322284, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.323793, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.325807, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.329829, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:16:15.346814, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:16:15.347816, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:16:15.494343, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:16:15.494343, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:16:15.498347, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.500350, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:16:15.501346, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:24:25.956752, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:24:25.956752, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:24:25.984778, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:24:25.985789, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:24:25.987788, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:24:25.992788, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:24:25.993794, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:24:25.994793, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:24:26.057211, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:24:26.057211, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:24:26.081754, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:24:26.082754, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:24:26.093767, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:24:26.094769, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:24:26.095767, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:24:26.096766, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:24:26.102294, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:24:26.122297, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:24:26.122297, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:24:26.216735, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:24:26.216735, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:24:26.218729, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:24:26.219730, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:24:26.221732, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.486218, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:37:25.491201, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:37:25.491201, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:37:25.522202, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.522202, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.525211, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.531213, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.533226, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.533226, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.587402, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:37:25.588404, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:37:25.607410, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:37:25.608411, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:37:25.617924, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.618937, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.619939, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.621934, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.626936, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:37:25.631948, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:37:25.632949, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:37:25.680491, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:37:25.681507, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:37:25.683491, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.684491, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:37:25.685498, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.324504, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:37:54.329506, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:37:54.329506, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:37:54.359506, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.360504, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.363508, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.370509, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.370509, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.371509, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.432029, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:37:54.433028, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:37:54.457028, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:37:54.457028, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:37:54.467024, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.470026, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.471027, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.472028, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.478031, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:37:54.483031, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:37:54.483031, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:37:54.542565, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:37:54.543589, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:37:54.546563, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.548564, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:37:54.550571, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.590354, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:38:29.596348, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:38:29.597351, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:38:29.622347, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.623347, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.627346, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.632345, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.633347, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.634354, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.675396, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:38:29.675396, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:38:29.684401, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.687399, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.688400, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.689403, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.694398, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:38:29.698396, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:38:29.698396, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:38:29.744408, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:38:29.744408, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:38:29.746409, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.747409, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:38:29.748409, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.831482, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:40:35.835489, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:40:35.835489, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:40:35.863033, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.864036, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.866032, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.871542, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.872546, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.873543, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.914560, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:40:35.914560, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:40:35.923560, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.925558, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.927069, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.928081, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.933084, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:40:35.937079, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:40:35.938079, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:40:35.979620, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:40:35.979620, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:40:35.982622, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.984618, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:40:35.984618, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.025194, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:41:07.030189, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:41:07.031190, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:41:07.062792, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.066789, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.067794, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.074791, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.076792, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.077791, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.128794, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:41:07.128794, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:41:07.139806, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.141803, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.141803, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.143810, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.149334, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:41:07.155341, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:41:07.155341, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:41:07.208871, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:41:07.209872, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:41:07.211876, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.212385, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:41:07.215398, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.442886, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:42:20.446886, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:42:20.446886, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:42:20.472405, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.473407, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.474407, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.481407, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.482405, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.482405, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.523484, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:42:20.524487, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:42:20.533995, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.534985, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.535987, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.536987, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.541993, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:42:20.545997, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:42:20.545997, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:42:20.587541, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:42:20.587541, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:42:20.589514, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.591529, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:42:20.591529, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:44:11.986243, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:44:11.991248, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:44:11.991248, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:44:12.018769, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.019770, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.022770, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.029788, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.030781, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.031779, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.078315, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:44:12.078315, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:44:12.088319, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.091322, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.093321, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.093321, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.098315, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:44:12.102325, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:44:12.103320, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:44:12.148360, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:44:12.148360, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:44:12.150363, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.151365, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:44:12.152364, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:44:56.952407, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:44:56.956410, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:44:56.957407, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:44:56.985413, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:44:56.986428, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:44:56.989417, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:44:56.994772, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:44:56.995769, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:44:56.997777, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.038904, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:44:57.038904, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:44:57.047907, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.049910, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.050910, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.051917, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.056906, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:44:57.060913, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:44:57.061427, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:44:57.100489, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:44:57.100489, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:44:57.102500, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.103500, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.105493, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.111517, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:44:57.112512, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:44:57.113488, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.115492, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.116494, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:44:57.118501, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.615928, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:50:04.619930, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:04.619930, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:04.643146, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.644162, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.647164, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.651177, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.652159, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.653159, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.656176, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.694183, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:04.694183, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:04.704698, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.706711, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.708717, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.708717, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.709713, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.714709, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:50:04.718707, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:04.718707, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:04.760708, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:04.761705, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:04.762708, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.763710, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.764709, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.771704, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:04.772706, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:04.775707, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.775707, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.776709, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:04.779715, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.707992, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:50:31.712525, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:31.713541, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:31.740520, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.741525, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.743518, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.749522, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.750524, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.751526, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.754520, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.791543, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:31.792571, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:31.802557, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.804546, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.805546, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.807545, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.807545, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.813091, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:50:31.818074, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:31.819067, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:31.859358, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:31.859358, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:31.861355, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.862352, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.863349, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.871362, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:31.872376, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:31.873360, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.875348, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.876350, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:31.878369, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.673438, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:50:45.677413, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:45.677413, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:45.700412, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.701424, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.704415, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.710433, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.711425, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.712414, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.715422, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.752612, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:45.752612, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:45.761608, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.766616, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.766616, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.767613, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.768613, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.774625, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:50:45.779621, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:45.780611, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:45.821619, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:45.821619, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:45.823616, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.824611, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.825621, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.832614, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:50:45.832614, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:50:45.834610, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.835619, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.836619, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:50:45.838622, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.754400, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:52:33.758401, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:52:33.759392, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:52:33.783264, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.785278, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.788259, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.793257, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.794265, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.796265, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.797276, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.834299, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:52:33.834299, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:52:33.845283, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.846278, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.846278, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.847796, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.849817, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.854813, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:52:33.859844, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:52:33.859844, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:52:33.898829, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:52:33.898829, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:52:33.900819, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.901819, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.902819, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.909821, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:52:33.910818, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:52:33.912819, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.914826, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.914826, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:52:33.917821, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.558220, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:53:04.562230, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:53:04.563230, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:53:04.588923, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.589929, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.591934, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.597293, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.599302, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.599302, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.602313, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.638304, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:53:04.638304, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:53:04.646313, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.648316, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.649304, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.651299, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.652307, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.656313, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:53:04.659323, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:53:04.659323, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:53:04.691343, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:53:04.692321, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:53:04.693315, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.694826, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.695846, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.703861, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:53:04.703861, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:53:04.705835, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.706836, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.707850, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:53:04.709838, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.289440, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:54:58.294611, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:54:58.294611, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:54:58.318663, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.319667, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.322677, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.327667, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.330189, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.330189, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.333209, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.369198, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:54:58.369198, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:54:58.380218, [WARN] Unable to simulate equation "natural_growth". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.381203, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.382199, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.384193, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.384193, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.389190, [ERROR] No simulation model containing equation "natural_growth". Did you maybe mean one of "canopy_regrowth, agrar_data, agrar"?
+2026-11-24 13:54:58.394195, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:54:58.395193, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:54:58.434722, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:54:58.434722, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:54:58.436725, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.438728, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.439727, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.448729, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:54:58.448729, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:54:58.450727, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.452728, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.453736, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:54:58.455732, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.901757, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 13:56:38.905776, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:56:38.906775, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:56:38.931279, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.931279, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.935302, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.939286, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.940298, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.942291, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.945281, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.983816, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:56:38.984814, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:56:38.995833, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.996816, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.998815, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:56:38.999814, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 13:56:39.004823, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:56:39.004823, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:56:39.039815, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:56:39.040811, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:56:39.041825, [WARN] Unable to simulate equation "drought_heat". Doesn't seem like it's part of the model.
+2026-11-24 13:56:39.043828, [WARN] Unable to simulate equation "acid_deposition". Doesn't seem like it's part of the model.
+2026-11-24 13:56:39.044819, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 13:56:39.052824, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 13:56:39.052824, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 13:56:39.054822, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 13:56:39.056821, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 13:56:39.057813, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 13:56:39.059822, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.367551, [WARN] The scenario manager already exists. Will not change the model. Use another name to avoid surprising errors!
+2026-11-24 14:00:25.371084, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:00:25.371589, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:00:25.396776, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.398782, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.399775, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.406300, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.407296, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.409294, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.412318, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.450400, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:00:25.450400, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:00:25.454394, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.456373, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.456373, [WARN] Unable to simulate equation "_damage_from_events". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.457385, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.459376, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.461374, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:00:25.461374, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:19:15.959911, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:19:15.960913, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:19:15.990927, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 14:19:15.992925, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:19:15.993920, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:19:15.999929, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:19:15.999929, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.002916, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.003910, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.049196, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:19:16.050171, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:19:16.054182, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.055196, [WARN] Unable to simulate equation "event_intensity". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.057170, [WARN] Unable to simulate equation "_damage_from_events". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.058173, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.060171, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.061171, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.063171, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.078695, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:19:16.079696, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:19:16.082692, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.084692, [WARN] Unable to simulate equation "_damage_from_events". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.086693, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:19:16.087692, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:24:22.068690, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:24:22.069664, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:24:22.071669, [WARN] Unable to simulate equation "_damage_from_events". Doesn't seem like it's part of the model.
+2026-11-24 14:24:22.072652, [ERROR] No output data produced.
+2026-11-24 14:25:48.384927, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:25:48.385928, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:25:48.387922, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:25:48.389929, [ERROR] No output data produced.
+2026-11-24 14:25:48.390931, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:25:48.390931, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:25:48.392939, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:25:48.393934, [ERROR] No output data produced.
+2026-11-24 14:25:48.395927, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:25:48.395927, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:25:48.396933, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:25:48.404940, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:25:48.404940, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:27:10.876750, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:27:10.877761, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:27:10.879795, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:27:10.881331, [ERROR] No output data produced.
+2026-11-24 14:27:10.881841, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:27:10.882850, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:27:10.884063, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:27:10.885077, [ERROR] No output data produced.
+2026-11-24 14:27:10.886385, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:27:10.886385, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:27:10.887909, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:27:10.896919, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:27:10.896919, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:30:56.356513, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:30:56.357511, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:30:56.359511, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:30:56.361510, [ERROR] No output data produced.
+2026-11-24 14:30:56.362511, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:30:56.363510, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:30:56.365513, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:30:56.366512, [ERROR] No output data produced.
+2026-11-24 14:30:56.367511, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:30:56.368515, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:30:56.370511, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:30:56.380512, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:30:56.381513, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:32:04.864692, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:32:04.865701, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:32:04.867688, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:32:04.868687, [ERROR] No output data produced.
+2026-11-24 14:32:04.869699, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:32:04.870686, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:32:04.871687, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:32:04.872699, [ERROR] No output data produced.
+2026-11-24 14:32:04.873697, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:32:04.873697, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:32:04.875689, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:32:04.884700, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:32:04.885689, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:37:14.132116, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:37:14.132116, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:37:14.158139, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 14:37:14.160143, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:37:14.164667, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:37:14.169666, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:37:14.169666, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:37:14.171666, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:37:14.173670, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:37:14.209755, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:37:14.209755, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:37:14.215257, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:37:14.216256, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:37:14.218256, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:37:14.218256, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:37:41.697412, [ERROR] Scenario manager not found. Did you register it?
+2026-11-24 14:40:27.140859, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:40:27.141870, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:40:27.169917, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 14:40:27.171919, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:40:27.172923, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:40:27.176918, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:40:27.177924, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:40:27.179438, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:40:27.181448, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:40:27.217542, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:40:27.219052, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:40:27.226075, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:40:27.227063, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:40:27.229093, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:40:27.230082, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:41:15.872242, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:41:15.873244, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:41:15.915396, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 14:41:15.917386, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:41:15.918392, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:41:15.926390, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:41:15.929408, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:41:15.931388, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:41:15.935388, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:41:15.998459, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:41:15.998459, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:41:16.005017, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:41:16.008031, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:41:16.008031, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:41:16.010029, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:41:46.213943, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:41:46.214947, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:41:46.241976, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 14:41:46.242953, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:41:46.247957, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:41:46.252460, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:41:46.254463, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:41:46.255465, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:41:46.258463, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.616958, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:42:18.617923, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:42:18.648433, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.650443, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.654445, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.660442, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.662449, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.663442, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.665961, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.710272, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:42:18.711260, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:42:18.716268, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.717261, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.718261, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:42:18.719261, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:42:53.989394, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:42:53.990393, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:42:54.016584, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 14:42:54.017572, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:42:54.019577, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:42:54.026575, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:42:54.027576, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:42:54.028576, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:42:54.032599, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:42:54.084399, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:42:54.084399, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:42:54.091389, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:42:54.092391, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:42:54.094391, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:42:54.094391, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.599767, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:44:19.599767, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:44:19.627735, [WARN] Unable to simulate equation "_verlust". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.630833, [WARN] Unable to simulate equation "climate_severity". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.631831, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.637462, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.638464, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.641469, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.643465, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.696127, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:44:19.697128, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:44:19.701125, [WARN] Unable to simulate equation "tree_mortality". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.702127, [WARN] Unable to simulate equation "deadwood_formation". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.703129, [WARN] Unable to simulate equation "deadwood". Doesn't seem like it's part of the model.
+2026-11-24 14:44:19.704127, [WARN] Unable to simulate equation "deadwood_decomposition". Doesn't seem like it's part of the model.
+2026-11-24 14:47:53.664430, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:47:53.665936, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:47:53.665936, [WARN] Overwriting existing set of points for drought_heat
+2026-11-24 14:47:53.666953, [WARN] Overwriting existing set of points for acid_deposition
+2026-11-24 14:47:53.667464, [WARN] Overwriting existing set of points for event_intensity
+2026-11-24 14:47:53.790350, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:47:53.790350, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:47:53.791348, [WARN] Overwriting existing set of points for drought_heat
+2026-11-24 14:47:53.791348, [WARN] Overwriting existing set of points for acid_deposition
+2026-11-24 14:47:53.791348, [WARN] Overwriting existing set of points for event_intensity
+2026-11-24 14:48:06.658005, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:48:06.658986, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:48:06.658986, [WARN] Overwriting existing set of points for drought_heat
+2026-11-24 14:48:06.658986, [WARN] Overwriting existing set of points for acid_deposition
+2026-11-24 14:48:06.659996, [WARN] Overwriting existing set of points for event_intensity
+2026-11-24 14:48:06.775243, [WARN] Overwriting existing set of points for climate_data
+2026-11-24 14:48:06.775243, [WARN] Overwriting existing set of points for agrar_data
+2026-11-24 14:48:06.775243, [WARN] Overwriting existing set of points for drought_heat
+2026-11-24 14:48:06.776254, [WARN] Overwriting existing set of points for acid_deposition
+2026-11-24 14:48:06.776254, [WARN] Overwriting existing set of points for event_intensity
